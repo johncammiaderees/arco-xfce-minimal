@@ -332,7 +332,7 @@ gparted
 #gtop
 hardinfo
 #hddtemp
-#htop
+htop
 #hunspell
 #hunspell-en
 #hyphen
