@@ -218,7 +218,7 @@ poppler-qt5
 
 #applications
 #atom
-#chromium
+chromium
 #compton
 #darktable
 #deadbeef
@@ -229,7 +229,7 @@ feh
 #flashplugin
 #galculator
 #geany
-#gimp
+gimp
 #gmrun
 #gsimplecal
 #guvcview
@@ -240,13 +240,13 @@ meld
 #nitrogen
 numlockx
 #pragha
-#qbittorrent
+qbittorrent
 scrot
 #simplescreenrecorder
 termite
 #tint2
 variety
-#vlc
+vlc
 
 #conky
 #jq
@@ -390,8 +390,8 @@ zenity
 #############################
 
 #applications
-vivaldi
-vivaldi-codecs-ffmpeg-extra-bin
+#vivaldi
+#vivaldi-codecs-ffmpeg-extra-bin
 
 #cursors
 #breeze-cursors-lh
